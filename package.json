@@ -1,6 +1,6 @@
 {
   "name": "generator-rn-toolbox",
-  "version": "0.0.0-managed-by-semantic-release",
+  "version": "3.8.0-post1",
   "description": "React-Native generators to kickstart your project",
   "scripts": {
     "lint": "eslint .",
@@ -34,15 +34,15 @@
     "url": "https://github.com/bamlab/generator-rn-toolbox"
   },
   "dependencies": {
-    "bluebird": "^3.5.0",
-    "color-js": "^1.0.4",
-    "colors": "^1.1.2",
-    "compare-version": "^0.1.2",
-    "download-file-sync": "^1.0.4",
-    "fs-extra": "^4.0.2",
-    "gm": "^1.23.0",
-    "randomstring": "^1.1.5",
-    "yeoman-generator": "^2.0.1"
+    "bluebird": "3.5.0",
+    "color-js": "1.0.4",
+    "colors": "1.1.2",
+    "compare-version": "0.1.2",
+    "download-file-sync": "1.0.4",
+    "fs-extra": "4.0.2",
+    "gm": "1.23.0",
+    "randomstring": "1.1.5",
+    "yeoman-generator": "2.0.1"
   },
   "devDependencies": {
     "commitizen": "^2.9.6",
