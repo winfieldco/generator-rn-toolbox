@@ -1,6 +1,6 @@
 {
   "name": "generator-rn-toolbox",
-  "version": "3.8.0-post1",
+  "version": "3.8.0-post2",
   "description": "React-Native generators to kickstart your project",
   "scripts": {
     "lint": "eslint .",
@@ -42,7 +42,7 @@
     "fs-extra": "4.0.2",
     "gm": "1.23.0",
     "randomstring": "1.1.5",
-    "yeoman-generator": "2.0.1"
+    "yeoman-generator": "https://github.com/winfieldco/generator/archive/2.0.5-post1.tar.gz"
   },
   "devDependencies": {
     "commitizen": "^2.9.6",
